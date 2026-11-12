@@ -61,9 +61,6 @@
 
 
 
-## ⚠️ Ethical use
-
-Oblivion DGT Notes is built for **authorized security testing, education and CTFs only**. Use it only on systems you own or have explicit written permission to test. You are responsible for complying with all applicable laws. The authors accept no liability for misuse.
 
 ## About Oblivion
 
